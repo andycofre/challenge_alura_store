@@ -20,4 +20,4 @@ El siguiente análisis se baso en calcular:
 
 ##CONCLUSION
 
-Segun el analisis la tienda menos rentable es la tienda 4
+Segun el analisis la tienda menos rentable es la tienda 4 ya que presenta un bajo ingresos totales anualmente, es la tienda que tiene menos ventas y a la vez menor volumen de productos vendidos, el valor promedio que gasta cada cliente por compra es menor que el de otras tiendas.
